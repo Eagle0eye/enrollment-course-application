@@ -1,7 +1,3 @@
-Here's a comprehensive version of the documentation you requested for your **Enrollment Course Application**, including the adjustments for `@Inheritance(strategy = InheritanceType.JOINED)`, `@MappedSuperclass`, enums, custom queries, and DTO usage to prevent redundancy.
-
----
-
 # **Enrollment Course Application Documentation**
 
 ## **Overview**
